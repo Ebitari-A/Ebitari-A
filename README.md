@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ebitari Alaibe</h1>
 <h3 align="center">A junior full-stack developer from London</h3>
 
-- 🥳 I have just completed the Web Development course at the Le Wagon bootcamp, with the final project: **Telewise**
+- 📚 Lecturer at the Le Wagon Coding Bootcamp, London
 
-- 👨‍💻 Find my final project at the bootcamp at **https://www.telewise.co.uk**
+- 👨‍💻 Find my final project at the bootcamp at **https://www.telewise.live**
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 You can reach me at my email **aebitari@gmail.com**
 
